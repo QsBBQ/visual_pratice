@@ -1,1 +1,1 @@
-# visual_pratice
+# visual_practice
